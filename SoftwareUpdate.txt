@@ -1,1 +1,1 @@
-Replace onnx2tf usage from CLI to Python (#8429)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
