@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+ultralytics 8.1.30 add advanced HUB train arguments (#9110)
